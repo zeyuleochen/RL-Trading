@@ -10,6 +10,8 @@ This repository contains code and resources for developing and testing reinforce
 To get started, clone this repository to your local machine:
 
 ```bash
+git clone https://github.com/zeyuleochen/RL-Trading.git
+cd RL-Trading
 ```
 
 ## Usage
