@@ -14,11 +14,19 @@ git clone https://github.com/zeyuleochen/RL-Trading.git
 cd RL-Trading
 ```
 
-## Usage
+## Contents
 
-To get the results and notebook for FinRL, please refer to the ./FinRL
+Explore the results and notebooks for different components of the project:
 
-## Results
+1. [**FinRL**](./FinRL)
+   - Find results and notebooks related to the FinRL library.
 
-Refer to the ./results folder for presentation
+2. [**Custom Environment**](./custom)
+   - Access results and notebooks specific to custom environments.
+
+3. [**Gym-anytrading**](./anytrading)
+   - Check out results and notebooks associated with the gym-anytrading library.
+     
+4.  [**Results and Presentation**](./slides)
+   - Check out the presentation report for the project
 
