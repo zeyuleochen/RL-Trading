@@ -1,1 +1,1 @@
-# RL-Trading
+# Stock Trading With Reinforcement Learning
