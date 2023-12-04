@@ -16,7 +16,9 @@ cd RL-Trading
 
 ## Usage
 
+To get the results and notebook for FinRL, please refer to the ./FinRL
+
 ## Results
 
-Refer to the results folder for presentation
+Refer to the ./results folder for presentation
 
