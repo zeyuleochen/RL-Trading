@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains code and resources for developing and testing reinforcement learning agents for stock trading, with a focus on Apple stock and portfolio trading. The project leverages custom environments, [gym-anytrading](https://github.com/AI4Finance-LLC/gym-anytrading), and [FinRL](https://github.com/AI4Finance-Foundation/FinRL-PyTorch) library. The implemented algorithms include Deep Q-Network (DQN), Proximal Policy Optimization (PPO), and Advantage Actor-Critic (A2C).
+This repository contains code and resources for developing and testing reinforcement learning agents for stock trading, with a focus on Apple stock and portfolio trading. The project leverages custom environments, [gym-anytrading](https://github.com/AI4Finance-LLC/gym-anytrading), and [FinRL](https://github.com/AI4Finance-Foundation/FinRL-PyTorch) library. The implemented algorithms include Deep Q-Network (DQN), Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG) and Advantage Actor-Critic (A2C).
 
 
 ## Installation
