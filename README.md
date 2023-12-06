@@ -16,9 +16,9 @@ cd RL-Trading
 2. To use the FinRL library, install the library with the following commands
 
 ```bash
-!pip install swig
-!pip install box2d
-!pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
+pip install swig
+pip install box2d
+pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 ```
 
 ## Contents
