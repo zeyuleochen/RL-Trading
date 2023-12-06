@@ -20,6 +20,21 @@ pip install swig
 pip install box2d
 pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 ```
+3. To use the Gym-Anytrading library, install the library with the following
+```bash
+pip install gym-anytrading
+```
+OR
+
+```bash
+git clone https://github.com/AminHP/gym-anytrading
+cd gym-anytrading
+pip install -e .
+
+## or
+
+pip install --upgrade --no-deps --force-reinstall https://github.com/AminHP/gym-anytrading/archive/master.zip
+```
 
 ## Contents
 
