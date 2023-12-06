@@ -24,7 +24,7 @@ pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 ```bash
 pip install gym-anytrading
 ```
-### OR
+Or directly from Gym-anytrading Github Repository
 
 ```bash
 git clone https://github.com/AminHP/gym-anytrading
