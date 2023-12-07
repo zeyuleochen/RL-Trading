@@ -46,7 +46,7 @@ Explore the results and notebooks for different components of the project:
 2. [**Custom Environment**](./custom)
    - Access results and notebooks specific to custom environments.
 
-3. [**Gym-anytrading**](./anytrading)
+3. [**Gym-anytrading**](./gym-anytrading)
    - Check out results and notebooks associated with the gym-anytrading library.
      
 4.  [**Results and Presentation**](./slides)
