@@ -43,16 +43,13 @@ Explore the results and notebooks for different components of the project:
 1. [**FinRL**](./FinRL)
    - Find results and notebooks related to the FinRL library.
 
-2. [**Custom Environment**](./custom)
-   - Access results and notebooks specific to custom environments.
-
-3. [**Gym-anytrading**](./gym-anytrading)
+2. [**Gym-anytrading**](./gym-anytrading)
    - Check out results and notebooks associated with the gym-anytrading library.
 
-4. [**Data Sets used**](./data)
+3. [**Data Sets used**](./data)
    - Access Apple Stock price data spanning from 2010 to Nov. 2023.
    - Explore Dow Jones Company data from 2010 to Nov. 2023, utilized for FinRL Portfolio and ensemble training.
      
-6.  [**Results and Presentation**](./slides)
+4.  [**Results and Presentation**](./slides)
    - Check out the presentation report for the project
 
